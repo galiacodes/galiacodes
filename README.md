@@ -2,7 +2,7 @@
 
 > The repo where **Galia codes**… and occasionally commits questionable life choices at 2 a.m. 🧠💻  
 
-This is the **official hub** of my coding universe; experiments, ideas, and projects all orbit around here (at least the ones I’m brave enough to make public).  
+I’m currently studying **Statistics and Computer Science**, and this is the **official hub** of my coding universe — experiments, ideas, and projects all orbit around here (at least the ones I’m brave enough to make public).  
 
 🌙 Most of my other repos?  
 Let’s just say they’re *in stealth mode* — aka **private**, like 90% of GitHub 😅  
